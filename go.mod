@@ -1,4 +1,4 @@
-module kvstore
+module hellocomebft/v2
 
 go 1.19
 
